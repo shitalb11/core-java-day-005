@@ -6,3 +6,4 @@ public class Demo1 {
         System.out.println(string);
     }
 }
+//added code for practice only
