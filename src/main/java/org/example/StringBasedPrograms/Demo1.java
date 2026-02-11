@@ -7,3 +7,4 @@ public class Demo1 {
     }
 }
 //added code for practice only
+//basic java printing code
