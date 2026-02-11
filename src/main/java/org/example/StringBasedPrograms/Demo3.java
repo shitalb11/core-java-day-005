@@ -9,4 +9,4 @@ public class Demo3 {
     }
 }
 
-//String Length (without length())
+//String Length (without length() operator)
